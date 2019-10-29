@@ -5,7 +5,7 @@ author: "YOUR NAME"
 output: html_document
 urlcolor: "blue"
 params: 
-  solutions: FALSE
+  solutions: TRUE
 ---
 
 ```{r setup, include=FALSE}
